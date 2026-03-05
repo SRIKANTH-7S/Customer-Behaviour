@@ -96,21 +96,3 @@ https://cdn.iiit.ac.in/cdn/rndshowcase.iiit.ac.in/tto2025/TTO_website_data/PDF/1
 3. Cross-platform mobile app
 4. Multilingual support
 
-👨‍💻 Team-03
-| Name              | Roll No        |
-|------------------:|---------------:|
-| G. Sai Saatvik    | 23BD1A058M     |
-| K. Rajkumar       | 24BD5A0530     |
-| S. Akshaya        | 23BD1A661W     |
-| A. Bavesha Prasad | 23BD1A6768     |
-
-
-Mentors: Mr. A. Gnanesh, Mr. K. Rajesh
-
-About this project
-Real-time Research
-B.Tech II Year II Semester, Keshav Memorial Institute of Technology, Hyderabad
-Academic year: 2024–2025
-
-Inspired by AI 2041 book — envisioning the future of AI-driven insurance.
-
